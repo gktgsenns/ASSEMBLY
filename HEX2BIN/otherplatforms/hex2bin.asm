@@ -1,4 +1,4 @@
-; Hex to Binary Converter for DOS using NASM
+
 org 100h
 
 section .bss
